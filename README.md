@@ -22,8 +22,8 @@ Actualmente estoy en INFOTEP estudiando el técnico en Diseño y Creación de So
 
 ### Bases de Datos
 
-![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=52) ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=52)
+![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=62)
 
 ### Herramientas para control de versiones
 
-![git](https://www.readmecodegen.com/api/social-icon?name=git&size=52) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=52)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=52) ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=52&color=%23ffffff)
