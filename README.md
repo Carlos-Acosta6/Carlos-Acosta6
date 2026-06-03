@@ -3,7 +3,7 @@
 Soy un chico al que le encanta construir e indagar en el ¿Por qué? y en el ¿Cómo? se hacen las cosas, y mejorar continuamente.
 
 ## 🚀 About Me
-Actualmente estoy en INFOTEP estudiando el técnico en Diseño y Creación de Software (Full-Stack) completando 8/12 meses de estudio continuo, donde he mejorado rotundamente mis habilidades en patrones de diseño y lógica de programación. 
+Actualmente estoy en INFOTEP estudiando el técnico en Diseño y Creación de Software (Full-Stack) completando 11/12 meses de estudio continuo, donde he mejorado rotundamente mis habilidades en patrones de diseño y lógica de programación. 
 
 ---
 
