@@ -1,9 +1,9 @@
 # Hola, me llamo Carlos! 👋
 
-Soy un chico al que le encanta construir e indagar en el ¿Cómo? y en el ¿Por qué? de las cosas, y mejorar continuamente.
+Soy un chico al que le encanta construir e indagar en el ¿Cómo? y en el ¿Por qué? de las cosas, y buscando mejorar continuamente.
 
 ## 🚀 About Me
-Actualmente estoy en INFOTEP estudiando el técnico en Diseño y Creación de Software (Full-Stack) completando 11/12 meses de estudio continuo, donde he mejorado rotundamente mis habilidades en patrones de diseño y lógica de programación. 
+Actualmente estudio en el Instituto Nacional de Formación Técnico Profesional (INFOTEP) estudiando el técnico en Diseño y Creación de Software (Full-Stack) completando 11/12 meses de estudio continuo, donde he mejorado rotundamente mis habilidades en patrones de diseño y lógica de programación. 
 
 ---
 
