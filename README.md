@@ -1,6 +1,6 @@
 # Hola, me llamo Carlos! 👋
 
-Soy un chico al que le encanta construir e indagar en el ¿Por qué? de las cosas y en el ¿Cómo?, y mejorar continuamente.
+Soy un chico al que le encanta construir e indagar en el ¿Cómo? y en el ¿Por qué? de las cosas, y mejorar continuamente.
 
 ## 🚀 About Me
 Actualmente estoy en INFOTEP estudiando el técnico en Diseño y Creación de Software (Full-Stack) completando 11/12 meses de estudio continuo, donde he mejorado rotundamente mis habilidades en patrones de diseño y lógica de programación. 
@@ -19,10 +19,12 @@ Actualmente estoy en INFOTEP estudiando el técnico en Diseño y Creación de So
 ### Desarrollo Backend
 
 ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=52) ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=52)
+![django](https://www.readmecodegen.com/api/social-icon?name=django&size=52)
 
 ### Bases de Datos
 
 ![mysql](https://www.readmecodegen.com/api/social-icon?name=mysql&size=62)
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=62)
 
 ### Herramientas para control de versiones
 
